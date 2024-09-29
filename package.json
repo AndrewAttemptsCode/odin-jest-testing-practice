@@ -1,0 +1,25 @@
+{
+  "name": "odin-jest-testing-practice",
+  "version": "1.0.0",
+  "description": "Jest testing practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewAttemptsCode/odin-jest-testing-practice.git"
+  },
+  "author": "AndrewAttemptsCode",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndrewAttemptsCode/odin-jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/AndrewAttemptsCode/odin-jest-testing-practice#readme",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/preset-env": "^7.25.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
